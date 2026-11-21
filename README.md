@@ -1,16 +1,31 @@
-## Hi there 👋
+![nextfield](./Logo_nextfield_NXTFLD_Pfad.jpg)
+# nextfield — Tech & Applied AI
 
-<!--
-**nextfield/nextfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Angewandte Künstliche Intelligenz, autonome KI-Agenten & lokale LLM-Architekturen.**  
+Klartext, Systemarchitektur und datenschutzkonforme Praxis-Lösungen jenseits des KI-Hypes.
 
-Here are some ideas to get you started:
+🌐 **Tech-Blog & Beratung:** [www.nextfield.de](https://www.nextfield.de)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Schwerpunkte
+
+- **Lokale LLMs & Self-Hosting:** Open-Weights-Modelle, GPU-Inference-Stacks (Ollama, vLLM) und souveräne On-Premise-Infrastrukturen.
+- **Autonome KI-Agenten:** Python-basierte Agenten-Workflows, Tool-Orchestrierung und lokale Automatisierung.
+- **KI-Strategie & Datenschutz:** DSGVO-konforme KI-Integration und pragmatische Architektur-Beratung für Unternehmen.
+
+---
+
+### Tech-Stack
+
+![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Local LLMs](https://img.shields.io/badge/Open--Weights-LLMs-00897B?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### Aktuelle Repositories
+
+- **[local-llm-inference-stack](https://github.com/nextfield/local-llm-inference-stack)** – Docker-Compose- und Python-Templates für lokales Open-Weights-LLM-Hosting (Ollama & vLLM).
