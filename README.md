@@ -1,4 +1,4 @@
-![nextfield](./Logo_nextfield_NXTFLD_Pfad.jpg)
+![nextfield](./Logo_nextfield_Path.png)
 # nextfield — Tech & Applied AI
 
 **Angewandte Künstliche Intelligenz, autonome KI-Agenten & lokale LLM-Architekturen.**  
