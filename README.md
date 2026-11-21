@@ -1,4 +1,3 @@
-html
 <p align="left">
   <img src="./Logo_nextfield_path.png" alt="nextfield" width="300">
 </p>
