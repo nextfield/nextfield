@@ -1,4 +1,8 @@
-![nextfield](./Logo_nextfield_Path.png)
+html
+<p align="left">
+  <img src="./Logo_nextfield_NXTFLD_Pfad.jpg" alt="nextfield" width="300">
+</p>
+
 # nextfield — Tech & Applied AI
 
 **Angewandte Künstliche Intelligenz, autonome KI-Agenten & lokale LLM-Architekturen.**  
