@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./Logo_nextfield_path.png" alt="nextfield" width="300">
+  <img src="./Logo_nextfield_Path.png" alt="nextfield" width="300">
 </p>
 
 # nextfield — Tech & Applied AI
