@@ -4,7 +4,7 @@
 **Angewandte Künstliche Intelligenz, autonome KI-Agenten & lokale LLM-Architekturen.**  
 Klartext, Systemarchitektur und datenschutzkonforme Praxis-Lösungen jenseits des KI-Hypes.
 
-🌐 **Tech-Blog & Beratung:** [www.nextfield.de](https://www.nextfield.de)
+🌐 **Tech-Blog & Beratung:** [www.nextfield.de](https://www.nextfield.de) 404-thing -> Aktuell im Aufbau. 
 
 ---
 
